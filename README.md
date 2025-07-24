@@ -27,8 +27,8 @@ Ferramenta multifuncional para operações de criptografia, varredura de rede, g
 Clone o repositório ou baixe o script `zeon.py`:
 
 ```bash
-git clone https://github.com/seuusuario/zeon-toolkit.git
-cd zeon-toolkit
+git clone https://github.com/seuusuario/zeon-cli.git
+cd zeon-cli
 ```
 
 Instale as dependências:
